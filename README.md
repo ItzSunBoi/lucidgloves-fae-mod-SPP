@@ -43,19 +43,21 @@ all parts, according to my calculations, comes down to ~$60 per glove for 2 glov
 Don't forget that you will still need to buy a SteamVR tracker of your choice, a USB cable and a Powerbank for each
 glove thogh, of course.  
 
-## Important caveat
+~~## Important caveat~~
 
-**The ESP32-S3 chip does not support BluetoothSerial. This means that, presently, the gloves can only
+~~**The ESP32-S3 chip does not support BluetoothSerial. This means that, presently, the gloves can only
 be connected using a wired USB connection.** The chip itself supports both Bluetooth Low Energy and WiFi for
 communication, neither of these are currently implemented in the firmware or the 
 [opengloves driver](https://github.com/LucidVR/opengloves-driver), though there seem to be plans to support
-BLE for communication in the future.
+BLE for communication in the future.~~
 
-If you're a developer and feel like implementing communication via WiFi/TCP/UDP or Bluetooth Low Energy in the
+~~If you're a developer and feel like implementing communication via WiFi/TCP/UDP or Bluetooth Low Energy in the
 oopengloves driver and submit a pull request to it, i'm sure it would be appreciated by the community.
 I don't have enough experience with software development on windows to do it myself. However, i am experienced
 with firmware development and if someone added the support to the opengloves driver, i would probably be up to
-implementing the other side of it for the firmware.
+implementing the other side of it for the firmware.~~
+
+**In Theory, with an external bluetooth chip, it should allow bluetooth serial communitation to be possible**
 
 ## Instructions
 
