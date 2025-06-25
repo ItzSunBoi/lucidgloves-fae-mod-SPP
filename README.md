@@ -4,12 +4,6 @@ This repository contains files and instructions how to build the **LucidglovesFa
 **[Lucidgloves Prototype 5](https://github.com/LucidVR/lucidgloves/tree/proto5) by Lucas VRTech**.
 
 <p>
-  <a href="img/glove-total.jpg"><img src="img/glove-total.jpg" width="30%" /></a>
-  <a href="img/finger-module-closeup.jpg"><img src="img/finger-module-closeup.jpg" width="30%" /></a>   
-  <a href="img/wiring-closeup.jpg"><img src="img/wiring-closeup.jpg" width="30%" /></a>
-</p>
-
-<p>
   <a href="img/control-pcb-front.png"><img src="img/control-pcb-front.png" width="45%" /></a>
   <a href="img/control-pcb-back.png"><img src="img/control-pcb-back.png" width="45%" /></a>
 </p>
@@ -21,6 +15,7 @@ The mod presently consists of 4 features that can, in theory, be used seperately
   [JLCPCB](https://jlcpcb.com/) including most of the assembly. 
 * A modified sensor module that prints without supports and fits the new PCBs. It can also be used without the new PCBs.
 * A new tracker mount that includes space for the control PCB. It can also be used without the new PCBs.
+* A Battery conection port for and external battery and charge controller.
 * A two-material version of the rigid mount, that allows you to print part of it with flexible filament (TPU) so it
   flexes more nicely where it needs to. It can be used without the other parts of this mod. It can also be printed using
   a non-multi-material printer. 
