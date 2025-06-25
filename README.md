@@ -21,6 +21,7 @@ The mod presently consists of 4 features that can, in theory, be used seperately
   [JLCPCB](https://jlcpcb.com/) including most of the assembly. 
 * A modified sensor module that prints without supports and fits the new PCBs. It can also be used without the new PCBs.
 * A new tracker mount that includes space for the control PCB. It can also be used without the new PCBs.
+* A Battery conection port for and external battery and charge controller.
 * A two-material version of the rigid mount, that allows you to print part of it with flexible filament (TPU) so it
   flexes more nicely where it needs to. It can be used without the other parts of this mod. It can also be printed using
   a non-multi-material printer. 
