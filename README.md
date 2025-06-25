@@ -58,6 +58,7 @@ with firmware development and if someone added the support to the opengloves dri
 implementing the other side of it for the firmware.~~
 
 **In Theory, with an external bluetooth chip, it should allow bluetooth serial communitation to be possible**
+**Note the Gerber File is for a panel of 2x1**
 
 ## Instructions
 
