@@ -4,12 +4,6 @@ This repository contains files and instructions how to build the **LucidglovesFa
 **[Lucidgloves Prototype 5](https://github.com/LucidVR/lucidgloves/tree/proto5) by Lucas VRTech**.
 
 <p>
-  <a href="img/glove-total.jpg"><img src="img/glove-total.jpg" width="30%" /></a>
-  <a href="img/finger-module-closeup.jpg"><img src="img/finger-module-closeup.jpg" width="30%" /></a>   
-  <a href="img/wiring-closeup.jpg"><img src="img/wiring-closeup.jpg" width="30%" /></a>
-</p>
-
-<p>
   <a href="img/control-pcb-front.png"><img src="img/control-pcb-front.png" width="45%" /></a>
   <a href="img/control-pcb-back.png"><img src="img/control-pcb-back.png" width="45%" /></a>
 </p>
